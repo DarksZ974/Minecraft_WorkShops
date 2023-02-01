@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/forge-1.12.2-14.23.5.2860-installer.iml" filepath="$PROJECT_DIR$/.idea/forge-1.12.2-14.23.5.2860-installer.iml" />
       <module fileurl="file://$PROJECT_DIR$/META-INF/maven/com.google.code.gson/gson/gson.iml" filepath="$PROJECT_DIR$/META-INF/maven/com.google.code.gson/gson/gson.iml" />
       <module fileurl="file://$PROJECT_DIR$/META-INF/maven/net.sf.jopt-simple/jopt-simple/jopt-simple.iml" filepath="$PROJECT_DIR$/META-INF/maven/net.sf.jopt-simple/jopt-simple/jopt-simple.iml" />
     </modules>
